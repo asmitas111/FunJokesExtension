@@ -1,0 +1,11 @@
+we'll need
+  - a logo (128*128)
+  - joke api
+  
+https://jsonlint.com/- json validator
+https://icanhazdadjoke.com/slack- random joke as slack message.
+
+
+-Create a manifest.json file- add browser actions, permissions, logo,etc.
+-create your html file
+-create a script.js file. fetch data from the joke api here and 
